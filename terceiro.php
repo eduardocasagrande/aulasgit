@@ -1,1 +1,2 @@
-<?="Teste";?>
+<?php phpinfo();?>
+<?="Testando o arquivo php";?>
